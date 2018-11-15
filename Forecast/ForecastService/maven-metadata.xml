@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>Forecast</groupId>
-  <artifactId>ForecastParent</artifactId>
+  <artifactId>ForecastService</artifactId>
   <versioning>
     <versions>
       <version>1.3.21-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20181115122731</lastUpdated>
+    <lastUpdated>20181115122801</lastUpdated>
   </versioning>
 </metadata>
