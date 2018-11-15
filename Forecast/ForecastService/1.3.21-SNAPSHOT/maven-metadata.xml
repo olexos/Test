@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>Forecast</groupId>
+  <artifactId>ForecastService</artifactId>
+  <version>1.3.21-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20181115.122007</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20181115122007</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.3.21-20181115.122007-3</value>
+        <updated>20181115122007</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.3.21-20181115.122007-3</value>
+        <updated>20181115122007</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
